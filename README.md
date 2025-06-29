@@ -2,7 +2,7 @@
 
 BitByBit is a simple SwiftUI app that demonstrates how to use the new [`FoundationModels`](https://developer.apple.com/documentation/foundationmodels) framework introduced with Apple Intelligence. The app breaks down a task like “making homemade bread” into a list of short, actionable steps — all generated on-device using Apple’s system language model.
 
-![[BitByBitImage_200.PNG]]
+![BitByBit](BitByBitImage_200.PNG)
 
 ---
 
